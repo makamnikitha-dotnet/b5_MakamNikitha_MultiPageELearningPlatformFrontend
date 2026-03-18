@@ -1,4 +1,4 @@
-# Premium Multi-Page E-Learning Platform
+# Multi-Page E-Learning Platform
 
 A high-fidelity, client-side e-learning frontend built with standard web technologies. This project features a sophisticated dashboard, dynamic quiz systems, and full state persistence.
 
@@ -25,6 +25,12 @@ A high-fidelity, client-side e-learning frontend built with standard web technol
 - **Fonts**: Inter (via Google Fonts)
 - **Testing**: Jest (Unit testing for core logic)
 - **Design**: Modern "Premium" aesthetic with 3D illustrations and glassmorphism-lite accents.
+
+## 📖 Documentation
+Detailed technical information is available in the [docs/](docs/) folder:
+- **[Architecture](docs/ARCHITECTURE.md)**: Technical overview and directory structure.
+- **[Setup Guide](docs/SETUP.md)**: Local installation and testing instructions.
+- **[Contributing](docs/CONTRIBUTING.md)**: Guidelines for working on this project.
 
 ## 🏁 Getting Started
 1. **Clone or Download**: Download this project to your local machine.
